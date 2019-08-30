@@ -1,0 +1,21 @@
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		Console.WriteLine("Skriv in 2 tal");
+		string tal1 = Console .ReadLine();
+		string tal2 = Console .ReadLine();
+	    int tal = int.Parse(tal1); 
+		int tall = int.Parse(tal2); 
+		int plus = tal + tall;
+		int minus = tal - tall;
+		Console.Write("Summan är ");
+		Console.Write(plus); 
+		Console.Write(" Differensen är ");
+		Console.Write(minus); 
+	}
+}
+
+
