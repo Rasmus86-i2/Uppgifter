@@ -1,0 +1,9 @@
+h1{
+        font-family:Arial; font-size:22px;
+    }
+p.cyan{  background-color: green; color:red; text-align: center;
+}
+p.right{ text-align: right;}
+
+p.bor{ border:2px solid blue; border-radius:1px;
+}
