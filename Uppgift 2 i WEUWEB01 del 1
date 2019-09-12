@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <title>
+    Uppgift 1    
+</title>
+    <link href="uppg2.css" rel="stylesheet">
+</head>
+<body>
+
+<h1>
+Rasmus
+</h1>
+<p class = "bor">
+    Jag heter Rasmus. Jag bor på björnbärsvägen 13 i Hovshaga i Växjö. Jag tycker om kanniner och tv-spel. 
+</p class = "bor">
+<h4>
+1
+</h4>
+<p class="cyan">
+2222
+</p class="cyan"> 
+<p class= "right">
+0864    
+    </p class "right">
+<a href="https://www.vaxjo.se/sidor/forskola-och-skola/gymnasieskola/teknikum.html">
+<img src=    "https://www.mattecentrum.se/media/1396/vaxjo_teknikum.jpg?width=619" alt= "teknikum skola"></a>
+</body>
+</html>
