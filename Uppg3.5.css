@@ -1,0 +1,9 @@
+td{ border:1px solid black; border-radius:1px;
+}
+table{ border:1px solid black; border-radius:1px; border-collapse: collapse;
+}
+td.stor {font-weight: bold;}
+td.storig {font-weight: bold; text-align: right;}
+td.storan {font-weight: bold; text-align: center;}
+tr.vtd:nth-child(odd) {background-color: red;}
+tr.vtd:nth-child(even) {background-color: blue;}
