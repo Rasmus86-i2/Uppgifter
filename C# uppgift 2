@@ -1,0 +1,20 @@
+using System;
+ 
+public class Program
+{
+ public static void Main()
+ {
+   Console.WriteLine("Är det fint väder");
+   string J = Console .ReadLine();
+   J = J.ToLower();
+   if (J == "j" || J == "J")
+   Console.Write("Vi går på picknick");
+   else if (J== "n"|| J== "N")
+   Console.Write("Vi stannar inne och läser en bok");
+   else
+   Console.Write("Jag förstår inte");
+   {}
+ }
+}
+ 
+ 
