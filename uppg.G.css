@@ -1,0 +1,13 @@
+p.k {font-size: 20px;}
+/*ändrar text storlek*/
+img.st{height:450px;}
+img{height:250px;}
+/*ändrar hur höga och breda bilderna är*/
+body.gr {background-color: grey;}
+/*gör bakgrunden grå*/
+td,th{border: 1px solid black;}
+table{border-collapse:collapse;}
+td:nth-child(even){background-color:red;}
+td:nth-child(odd){background-color:blue;}
+td:nth-child(1){background-color:green;}
+/*gör så att tabelen har linjer i sig och olika färger*/
