@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head> 
+  <link href="uppg.G.css" rel="stylesheet">  
+  <title>    
+  Klonkrigs säsonger rankade
+  </title>
+</head>    
+<body>    
+  <h1>
+  Klonkrigs s&auml;songer rankade  
+  </h1>
+  <p>
+  Star wars the clone wars är min favorit tv-serie. Här har jag rankat hur bra jag tycker de olika sorts episoderna är i den serien från ett till tio.
+  </p>  
+  <table>  
+    <tr>
+      <th>Säsong   
+      </th>
+      <th>Krigs baserade episoder
+      </th>
+      <th>Politiskt baserade episoder
+      </th> 
+      <th>Duel baserade episoder
+      </th>
+      <th>Karaktärs baserade episoder
+      </th>
+    </tr>
+    <tr>
+      <td>1
+      </td>
+      <td>7
+      </td>
+      <td>3
+      </td>
+      <td>5
+      </td>
+      <td>6
+      </td>
+    </tr>
+    <tr>
+      <td>2
+      </td>    
+      <td>8
+      </td>
+      <td>7
+      </td>
+      <td>6
+      </td>
+      <td>7
+      </td>
+    </tr>  
+    <tr>
+      <td>3
+      </td>    
+      <td>6
+      </td>
+      <td>5
+      </td>
+      <td>7
+      </td>
+      <td>9
+      </td>
+    </tr>
+    <tr>
+      <td>4
+      </td>    
+      <td>10
+      </td>
+      <td>3
+      </td>
+      <td>7
+      </td>
+      <td>9
+      </td>
+    </tr>
+    <tr>
+      <td>5
+      </td>    
+      <td>8
+      </td>
+      <td>7
+      </td>
+      <td>10
+      </td>
+      <td>10
+      </td>
+    </tr> 
+  </table>
+<!--en tabel som ser mycket större ut än den egentligen är-->
+  <nav>
+    <ul>
+      <li><a href="uppg4.1.html">
+      Mina kaniner </a></li>
+      <li><a href="index.html">
+      Roliga saker</a></li>
+    </ul>
+  </nav> 
+</body>    
+</html>
