@@ -1,0 +1,30 @@
+using System;
+
+public class Program
+{
+  
+  public static void Main()
+  {
+   int tal1 = 1;
+   Random random = new Random ();
+   int slump = random.Next (1,101);
+   Console.WriteLine("Gissa ett tal mellan 1 och 100");
+   string tal = Console.ReadLine ();
+   int inmatning = int.Parse(tal);
+   while (slump != inmatning)
+   {
+      if (slump < inmatning)
+        Console.WriteLine("Talet är mindre");
+        
+      if (slump > inmatning)
+        Console.WriteLine("Talet är större");
+
+      tal = Console.ReadLine ();
+      inmatning = int.Parse(tal);
+     tal1 = tal1 + (1);
+   }
+   Console.WriteLine("Du hade rätt");
+   Console.WriteLine("Det tog "+tal1+" försök innan du lyckades");
+    
+  }
+}
